@@ -19,6 +19,8 @@ int main() {
     a++;
     cout << "a from apple after " << apple::a << endl;
 
-    { using namespace pineapple;
-    cout << "from pineapple " << a+b << endl; }
+    { 
+    using namespace pineapple;
+    cout << "from pineapple " << a+b << endl; 
+    }
 }
