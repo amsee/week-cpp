@@ -7,7 +7,7 @@ namespace apple {
 }
 
 namespace banana {
-    double a=5.5, b = 0.5;
+    double a = 5.5, b = 0.5;
 }
 
 int main() {
